@@ -4,7 +4,9 @@
 > Pro Developer || Front-End Developer
 >
 > <h3 align="left">Connect with me:</h3>
-> <h3 align="left" <a href="https://www.dabosscreation.com" target="_blank"> Dabosscreation</a></h3>
+><p align="left"> 
+    <a href="https://wa.link/bhfy1k" target="_blank_"><text align="center"> Dabosscreation </text></a></p>
+
 ><p align="left">
 > <a href="https://www.linkedin.com/in/" target="_blank"><img align="center"
 >      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
