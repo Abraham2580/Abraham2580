@@ -62,9 +62,10 @@
 >      height="40" /> </a> 
 >      </p>
 >
-> <br>
+>  <br>
 > <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abraham2580&layout=compact&theme=light&hide_border=false" />
-> <img align="left" src="https://github-readme-stats.vercel.app/api?username=Abraham2580&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=light&hide_border=false&border_radius=2&hide=contribs" alt="Daboss Creation's github stats" />
+> <img align="left" src="https://github-readme-stats.vercel.app/api?username=Abraham2580&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=light&hide_border=false&border_radius=2&hide=contribs" alt="Abraham Sunday's github stats" />
+> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abraham2580&" alt="Abraham2580" /></p>
 <!---
 Abraham2580/Abraham2580 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
